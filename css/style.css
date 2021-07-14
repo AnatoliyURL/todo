@@ -1,0 +1,8 @@
+p {
+  margin: 0 0 0 10px;
+}
+
+.time_block {
+  display: flex;
+  margin: 20px 0 20px 0;
+}
